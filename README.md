@@ -6,7 +6,7 @@
 
 ###获奖地址：
 
-[http://www.cocoachina.com/bbs/read.php?tid=198951](http://www.cocoachina.com/bbs/read.php?tid=198951)
+[Cocos2d-x版第一届在线编程大战——"进击的贪吃蛇"获奖名单 ](http://www.cocoachina.com/bbs/read.php?tid=198951)
 
 ###感谢他们的分享(以下排名不分先后)
 
